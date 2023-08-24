@@ -1,0 +1,26 @@
+.fondo{
+    background-color: #495867;
+    align-items: center;
+    text-align: center;
+    padding-left: 30%;
+}
+
+.divmensiones{
+    text-align: center;
+    width: 700px;
+    height: 550px;
+    background-color: #577399;
+    padding: 10 10 10 10px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.texto{
+    color: #F7F7FF;
+    padding-top: 10px;
+}
+
+.pfp{
+    width: 200px;
+    height: 200px;
+}
