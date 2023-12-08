@@ -1,23 +1,31 @@
-.fondo{
-    background-color: #495867;
+.fondo {
+    background-color: #8AC7B8;
+    display: flex;
+    justify-content: center;
     align-items: center;
     text-align: center;
-    padding-left: 30%;
 }
+
+ul {
+    list-style: none;
+  }
+
 
 .divmensiones{
+    color: #fcf6c6;
     text-align: center;
-    width: 700px;
-    height: 550px;
-    background-color: #577399;
+    width: 650px;
+    height: 700px;
+    background-color: #F45A5B;
     padding: 10 10 10 10px;
-    margin-top: 70px;
+    margin-top: 80px;
     margin-bottom: 20px;
+    font-family: 'Hedvig Letters Serif', serif;
 }
 
-.texto{
-    color: #F7F7FF;
-    padding-top: 10px;
+.lista{
+    padding: 10px 0px 0px 0px;
+    font-family: 'Oswald', sans-serif;
 }
 
 .pfp{
